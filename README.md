@@ -1,0 +1,2 @@
+# megabeat
+Cryptocurrency mining business
